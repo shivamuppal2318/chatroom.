@@ -168,3 +168,4 @@ To build and run the project, follow these steps:
 2.  Run `make` to build the project.
 3.  Run `./chatApp <port>` to start the server, replacing `<port>` with the port number you want to use.
 4.  Run `./clientApp <port>` to start a client, replacing `<port>` with the port number the server is running on.
+.
